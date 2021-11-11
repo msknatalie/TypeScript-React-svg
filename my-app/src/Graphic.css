@@ -1,0 +1,16 @@
+line {
+    stroke: black;
+    stroke-width: 4px;
+}
+
+.lineGreen {
+    fill: none;
+    stroke: green;
+    stroke-width: 3px;
+}
+
+.lineRed {
+    fill: none;
+    stroke: red;
+    stroke-width: 3px;
+}
